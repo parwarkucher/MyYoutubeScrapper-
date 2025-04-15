@@ -12,9 +12,6 @@ An Android application that searches YouTube videos based on queries and uses AI
 - Adjust search parameters (time filter, max results)
 - Modern Material 3 UI with dark mode support
 
-## Screenshots
-
-*[Add screenshots here when available]*
 
 ## Architecture
 
